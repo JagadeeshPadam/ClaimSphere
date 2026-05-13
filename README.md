@@ -4,7 +4,8 @@
 
 ## 📺 Demo
 
-![Demo Video](docs/demo/demo.mp4)
+<video src="https://raw.githubusercontent.com/JagadeeshPadam/ClaimSphere/main/docs/demo/demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
