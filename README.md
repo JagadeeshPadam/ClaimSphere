@@ -245,7 +245,7 @@ The system uses the **Structured Outputs** feature (`beta.chat.completions.parse
 ## 1. Clone Repository
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/JagadeeshPadam/ClaimSphere.git
 cd ClaimSphere
 ```
 
