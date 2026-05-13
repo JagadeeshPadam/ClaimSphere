@@ -2,6 +2,10 @@
 
 > AI-powered FNOL document processing system that extracts structured claim data, validates mandatory fields, classifies claims, and routes them automatically using Azure OpenAI GPT-4.1 with Structured Outputs.
 
+## 📺 Demo
+
+<video src="docs/demo/demo.mp4" width="100%" controls></video>
+
 ---
 
 ## Overview
